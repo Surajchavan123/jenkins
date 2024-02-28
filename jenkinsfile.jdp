@@ -23,3 +23,8 @@ pipeline {
         }
     }
 }
+
+
+# alternatives --config java 
+# select the version number
+
